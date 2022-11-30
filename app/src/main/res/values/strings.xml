@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">$ Лови удачу $</string>
+    <string name="sub_name">Получай реальный деньги</string>
+    <string name="hello_blank_fragment">Испытай свою удачю и получи реальный доход</string>
+    <string name="home_btn">Home</string>
+    <string name="exit_btn">Exit</string>
+    <string name="home_btn_text">Home</string>
+    <string name="exit_btn_text">Exit</string>
+    <string name="uz_url">https://llcrdct.net/go/s39o0hp42l</string>
+    <string name="choose_your_country_text">ВЫБЕРИ СТРАНУ</string>
+    <string name="url_null_text">Попробуйте, пожалуйста, позже или выберите другую страну</string>
+</resources>
